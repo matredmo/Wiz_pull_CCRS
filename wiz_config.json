@@ -1,0 +1,7 @@
+{	
+	"type": "wiz_service_account",
+	"wiz_api_url" : "",
+	"wiz_client_id": "",
+	"wiz_client_secret": "",
+	"wiz_auth_url" : ""
+}
